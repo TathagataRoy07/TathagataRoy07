@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=TathagataRoy07 &label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/TathagataRoy07?style=social" alt="followers" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - Computer science student who loves learning by building
 - Currently working on: Food and Resources Management 
 - Currently learning: **Data Structures & Algorithms**
-- Ask me about: **C, Python, HTML & CSS**
+- Ask me about: **C, Python, MySQL , HTML & CSS**
 - Reach me at: **barnali0915@gmail.com**
 
 
