@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TathagataRoy07&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TathagataRoy07 & label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/TathagataRoy07?style=social" alt="followers" />
 </p>
 
